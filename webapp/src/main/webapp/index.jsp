@@ -10,7 +10,7 @@
   <input type="text" id="lname" name="lname" value="aggarwal"><br>
   <label for="email">EMAIL:</label><br>
   <input type="text" id="email" name="email" value="rishu.aggarwal@rediffmail.com"><br><br>
-  <input type="submit" value="Submit">
+  <input type="Register" value="Register">
 </form> 
 
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
