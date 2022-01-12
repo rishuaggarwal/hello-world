@@ -5,11 +5,11 @@
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value=""><br>
+  <input type="text" id="fname" name="fname" value="rishu"><br>
   <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value=""><br>
+  <input type="text" id="lname" name="lname" value="aggarwal"><br>
   <label for="email">EMAIL:</label><br>
-  <input type="text" id="email" name="email" value=""><br><br>
+  <input type="text" id="email" name="email" value="rishu2586@gmail.com"><br><br>
   <input type="Register" value="Register">
 </form> 
 
